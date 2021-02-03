@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, Sejam Bem vindes!</h1>
-<h3 align="center">Sempre estarei postando aqui projetos que estarei executando ou mesmo participando, no momento estou focado em melhorar e aperfeiçoar alguns conhecimentos que já tenho, fique a vontade e caso tenha alguma dica, será bem vinda!</h3>
+<h3 align="center">Sempre estarei postando aqui projetos que estarei executando ou mesmo participando, no momento estou focado em melhorar e aperfeiçoar alguns conhecimentos que já tenho, fique a vontade e caso tenha alguma dica, será bem vinde!</h3>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulonegri&show_icons=true&theme=radical)
 
